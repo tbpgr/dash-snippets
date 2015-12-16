@@ -1,0 +1,5 @@
+[snippet]
+body = ":signal_strength:"
+syntax = "None"
+tag = "Emoji"
+title = "em_signal_strength;;"

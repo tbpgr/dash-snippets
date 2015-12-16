@@ -1,0 +1,5 @@
+[snippet]
+body = "@__bot-name__ delete karma @__name__"
+syntax = "None"
+tag = "Ruboty"
+title = "bot_delete_karma;;"

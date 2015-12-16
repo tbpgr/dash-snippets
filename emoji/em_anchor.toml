@@ -1,0 +1,5 @@
+[snippet]
+body = ":anchor:"
+syntax = "None"
+tag = "Emoji"
+title = "em_anchor;;"

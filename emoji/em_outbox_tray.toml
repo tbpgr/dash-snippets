@@ -1,0 +1,5 @@
+[snippet]
+body = ":outbox_tray:"
+syntax = "None"
+tag = "Emoji"
+title = "em_outbox_tray;;"

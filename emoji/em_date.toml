@@ -1,0 +1,5 @@
+[snippet]
+body = ":date:"
+syntax = "None"
+tag = "Emoji"
+title = "em_date;;"

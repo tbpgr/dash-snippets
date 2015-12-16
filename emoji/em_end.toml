@@ -1,0 +1,5 @@
+[snippet]
+body = ":end:"
+syntax = "None"
+tag = "Emoji"
+title = "em_end;;"

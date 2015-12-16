@@ -1,0 +1,5 @@
+[snippet]
+body = "@__bot-name__ resume job __job-id__"
+syntax = "None"
+tag = "Ruboty"
+title = "bot_resume_job;;"

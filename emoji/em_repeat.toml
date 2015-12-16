@@ -1,0 +1,5 @@
+[snippet]
+body = ":repeat:"
+syntax = "None"
+tag = "Emoji"
+title = "em_repeat;;"

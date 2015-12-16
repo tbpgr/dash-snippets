@@ -1,0 +1,5 @@
+[snippet]
+body = "@__bot-name__ alias __from__ -> __to__"
+syntax = "None"
+tag = "Ruboty"
+title = "bot_alias;;"

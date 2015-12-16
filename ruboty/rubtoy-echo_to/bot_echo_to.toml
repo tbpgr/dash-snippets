@@ -1,0 +1,5 @@
+[snippet]
+body = "@__bot-name__ echo_to #__channel__ __message__"
+syntax = "None"
+tag = "Ruboty"
+title = "bot_echo_to;;"

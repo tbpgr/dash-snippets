@@ -1,0 +1,5 @@
+[snippet]
+body = "@__bot-name__ who am i?"
+syntax = "None"
+tag = "Ruboty"
+title = "bot_who_am_i;;"

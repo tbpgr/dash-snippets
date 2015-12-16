@@ -1,0 +1,5 @@
+[snippet]
+body = "@__bot-name__ list karma"
+syntax = "None"
+tag = "Ruboty"
+title = "bot_list_karma;;"

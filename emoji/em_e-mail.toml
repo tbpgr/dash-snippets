@@ -1,0 +1,5 @@
+[snippet]
+body = ":e-mail:"
+syntax = "None"
+tag = "Emoji"
+title = "em_e-mail;;"

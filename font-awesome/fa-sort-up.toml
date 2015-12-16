@@ -1,0 +1,5 @@
+[snippet]
+body = "<i class=\"fa fa-sort-up\" style=\"font-size:1em;\"></i>"
+syntax = "None"
+tag = "FontAwesome"
+title = "fa-sort-up;;"

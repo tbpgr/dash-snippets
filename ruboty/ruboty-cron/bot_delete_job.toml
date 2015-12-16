@@ -1,0 +1,5 @@
+[snippet]
+body = "@__bot-name__ delete job __job-id__"
+syntax = "None"
+tag = "Ruboty"
+title = "bot_delete_job;;"

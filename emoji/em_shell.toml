@@ -1,0 +1,5 @@
+[snippet]
+body = ":shell:"
+syntax = "None"
+tag = "Emoji"
+title = "em_shell;;"

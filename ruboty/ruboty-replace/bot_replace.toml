@@ -1,0 +1,5 @@
+[snippet]
+body = "@__bot-name__ replace __pattern__ with __template__"
+syntax = "None"
+tag = "Ruboty"
+title = "bot_replace;;"

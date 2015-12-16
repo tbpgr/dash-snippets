@@ -1,0 +1,5 @@
+[snippet]
+body = ":clipboard:"
+syntax = "None"
+tag = "Emoji"
+title = "em_clipboard;;"

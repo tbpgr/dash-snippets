@@ -1,0 +1,5 @@
+[snippet]
+body = "@__bot-name__ add job \"__minutes__ __hour__ __month__ __year__ __week__\" __job__"
+syntax = "None"
+tag = "Ruboty"
+title = "bot_add_job;;"

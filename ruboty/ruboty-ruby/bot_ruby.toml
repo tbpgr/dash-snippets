@@ -1,0 +1,5 @@
+[snippet]
+body = "@__bot-name__ ruby __code__"
+syntax = "None"
+tag = "Ruboty"
+title = "bot_ruby;;"

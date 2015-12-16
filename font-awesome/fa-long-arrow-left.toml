@@ -1,0 +1,5 @@
+[snippet]
+body = "<i class=\"fa fa-long-arrow-left\" style=\"font-size:1em;\"></i>"
+syntax = "None"
+tag = "FontAwesome"
+title = "fa-long-arrow-left;;"

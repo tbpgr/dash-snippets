@@ -1,0 +1,5 @@
+[snippet]
+body = ":warning:"
+syntax = "None"
+tag = "Emoji"
+title = "em_warning;;"
